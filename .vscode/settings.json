@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "BlogRSSFeed.C": "cpp",
+        "blog.C": "cpp",
+        "Auth1.C": "cpp",
+        "Session.C": "cpp",
+        "User.C": "cpp"
+    }
+}
